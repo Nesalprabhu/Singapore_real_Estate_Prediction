@@ -205,7 +205,7 @@ if selected == "Home":
     
     c1,c2,c3,c4=st.columns(4)     
     with c1:
-        st.image('https://upload.wikimedia.org/wikipedia/commons/5/58/Bishan_HDB.JPG',use_container_width=True)
+        st.image('https://upload.wikimedia.org/wikipedia/commons/5/58/Bishan_HDB.JPG',width = 700)
     with c2:
         st.image('https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/JurongwestHDB.JPG/220px-JurongwestHDB.JPG',use_container_width=True)
     with c3:
